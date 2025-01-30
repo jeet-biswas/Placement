@@ -31,8 +31,7 @@
     ]
   },
   "homepage": "https://jeet-biswas.github.io/career-path-finder",
- "devDependencies": {
-  "@babel/plugin-proposal-private-property-in-object": "^version_number"
-}
-
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.14.5"
+  }
 }
