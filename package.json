@@ -30,9 +30,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "gh-pages": "^6.3.0",
-    "workbox-webpack-plugin": "^7.3.0"
-  }
+  "homepage": "https://jeet-biswas.github.io/career-path-finder"
 }
