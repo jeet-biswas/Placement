@@ -30,5 +30,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jeet-biswas.github.io/career-path-finder"
+  "homepage": "https://jeet-biswas.github.io/career-path-finder",
+ "devDependencies": {
+  "@babel/plugin-proposal-private-property-in-object": "^version_number"
+}
+
 }
