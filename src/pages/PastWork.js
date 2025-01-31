@@ -10,3 +10,5 @@ const PastWork = () => {
 };
 
 export default PastWork;
+import React from "react";
+
