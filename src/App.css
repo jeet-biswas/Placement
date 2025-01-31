@@ -193,11 +193,35 @@ section {
 }
 
 /* Mobile Responsive */
+
 @media (max-width: 430px) {
+  .navbar {
+    padding: 10px 20px; /* Adjust padding */
+    justify-content: space-between; /* Ensure items are spaced evenly */
+  }
+
   .navbar h1 {
-    font-size: 9px;
+    font-size: 14px; /* Adjust font size for smaller screens */
     overflow: hidden;
     text-overflow: ellipsis;
   }
+
+  .navbar ul {
+    gap: 10px; /* Adjust space between navbar items */
+  }
+
+  .navbar ul li {
+    margin: 0;
+  }
+
+  .navbar ul li a {
+    font-size: 12px; /* Adjust font size for the links */
+  }
+
+  .navbar ul li a:hover {
+    color: #ffeb99;
+    text-decoration: underline;
+  }
 }
+
 
