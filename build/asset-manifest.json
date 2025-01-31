@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/career-path-finder/static/css/main.689082ba.css",
-    "main.js": "/career-path-finder/static/js/main.19ed8717.js",
-    "index.html": "/career-path-finder/index.html",
-    "main.689082ba.css.map": "/career-path-finder/static/css/main.689082ba.css.map",
-    "main.19ed8717.js.map": "/career-path-finder/static/js/main.19ed8717.js.map"
+    "main.css": "/static/css/main.6bedb0b7.css",
+    "main.js": "/static/js/main.19ed8717.js",
+    "index.html": "/index.html",
+    "main.6bedb0b7.css.map": "/static/css/main.6bedb0b7.css.map",
+    "main.19ed8717.js.map": "/static/js/main.19ed8717.js.map"
   },
   "entrypoints": [
-    "static/css/main.689082ba.css",
+    "static/css/main.6bedb0b7.css",
     "static/js/main.19ed8717.js"
   ]
 }

@@ -6,7 +6,6 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Services from "./pages/Services";
 import "./App.css";
-
 const App = () => {
   return (
     <div>
